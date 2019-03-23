@@ -3,11 +3,20 @@
   <component name="ChangeListManager">
     <list default="true" id="1f736bde-fd08-474b-9c08-ad07bfd12225" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/log-in/css/coming-soon.css" beforeDir="false" afterPath="$PROJECT_DIR$/log-in/css/coming-soon.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/log-in/img/bg-mobile-fallback.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/log-in/img/bg-mobile-fallback.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio/fullsize/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/portfolio/fullsize/1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio/fullsize/2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/portfolio/fullsize/2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio/fullsize/3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/portfolio/fullsize/3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio/fullsize/4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/portfolio/fullsize/4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio/fullsize/5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/portfolio/fullsize/5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio/fullsize/6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/portfolio/fullsize/6.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio/thumbnails/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/portfolio/thumbnails/1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio/thumbnails/2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/portfolio/thumbnails/2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio/thumbnails/3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/portfolio/thumbnails/3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio/thumbnails/4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/portfolio/thumbnails/4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio/thumbnails/5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/portfolio/thumbnails/5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio/thumbnails/6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/portfolio/thumbnails/6.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/log-in/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/log-in/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sign-up/css/coming-soon.css" beforeDir="false" afterPath="$PROJECT_DIR$/sign-up/css/coming-soon.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sign-up/img/bg-mobile-fallback.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sign-up/img/bg-mobile-fallback.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sign-up/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/sign-up/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -24,23 +33,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/sign-up/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="87">
-              <caret line="41" column="33" selection-start-line="41" selection-start-column="33" selection-end-line="41" selection-end-column="33" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#div#2;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#div#1;n#div#2;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sign-up/css/coming-soon.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4186">
-              <caret line="212" selection-start-line="212" selection-end-line="212" />
+            <state relative-caret-position="148">
+              <caret line="39" column="50" selection-start-line="39" selection-start-column="50" selection-end-line="39" selection-end-column="50" />
             </state>
           </provider>
         </entry>
@@ -71,18 +65,18 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/css/creative.css" />
         <option value="$PROJECT_DIR$/log-in/css/coming-soon.css" />
         <option value="$PROJECT_DIR$/sign-up/css/coming-soon.css" />
+        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/log-in/index.html" />
         <option value="$PROJECT_DIR$/sign-up/index.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="-42" />
-    <option name="y" value="-21" />
+    <option name="x" value="6" />
+    <option name="y" value="-12" />
     <option name="width" value="1941" />
     <option name="height" value="990" />
   </component>
@@ -99,17 +93,6 @@
             <path>
               <item name="techtogether" type="b2602c69:ProjectViewProjectNode" />
               <item name="techtogether" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="techtogether" type="b2602c69:ProjectViewProjectNode" />
-              <item name="techtogether" type="462c0819:PsiDirectoryNode" />
-              <item name="sign-up" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="techtogether" type="b2602c69:ProjectViewProjectNode" />
-              <item name="techtogether" type="462c0819:PsiDirectoryNode" />
-              <item name="sign-up" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -146,21 +129,21 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1553314337100</updated>
-      <workItem from="1553314338333" duration="12908000" />
+      <workItem from="1553314338333" duration="15837000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12908000" />
+    <option name="totallyTimeSpent" value="15837000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1295" height="704" extended-state="7" />
+    <frame x="-63" y="301" width="1294" height="660" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="npm" side_tool="true" />
       <window_info id="Gulp" side_tool="true" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.46581876" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.46539378" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" />
@@ -168,7 +151,7 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32899627" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.054945055" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.059760958" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -189,34 +172,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-391">
-          <caret line="46" column="75" selection-start-line="46" selection-start-column="75" selection-end-line="46" selection-end-column="75" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/creative.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="138">
           <caret line="12" selection-start-line="12" selection-end-line="14" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sign-up/css/coming-soon.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4186">
-          <caret line="212" selection-start-line="212" selection-end-line="212" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/log-in/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="318">
-          <caret line="47" column="20" lean-forward="true" selection-start-line="47" selection-start-column="20" selection-end-line="47" selection-end-column="20" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -227,16 +186,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sign-up/index.html">
+    <entry file="file://$PROJECT_DIR$/sign-up/css/coming-soon.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="87">
-          <caret line="41" column="33" selection-start-line="41" selection-start-column="33" selection-end-line="41" selection-end-column="33" />
+        <state relative-caret-position="4186">
+          <caret line="212" selection-start-line="212" selection-end-line="212" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-50">
+          <caret line="265" column="101" selection-start-line="265" selection-start-column="101" selection-end-line="265" selection-end-column="101" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log-in/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="257">
+          <caret line="36" column="36" selection-start-line="36" selection-start-column="36" selection-end-line="36" selection-end-column="36" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#2;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#1;n#div#2;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sign-up/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="39" column="50" selection-start-line="39" selection-start-column="50" selection-end-line="39" selection-end-column="50" />
         </state>
       </provider>
     </entry>
