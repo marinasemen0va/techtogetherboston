@@ -3,7 +3,9 @@
  * Copyright 2013-2019 Start Bootstrap
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-coming-soon/blob/master/LICENSE)
  */
-
+::-webkit-scrollbar {
+  display: none;
+}
 html {
   height: 100%;
 }
@@ -37,7 +39,6 @@ video {
   z-index: 0;
 }
 
-@media (pointer: coarse) and (hover: none) {
   body {
     background: url("../img/bg-mobile-fallback.jpg") #1c66ab  no-repeat center center scroll;
     background-position: cover;
@@ -45,7 +46,6 @@ video {
   body video {
     display: none;
   }
-}
 
 .overlay {
   position: absolute;
@@ -53,7 +53,7 @@ video {
   left: 0;
   height: 100%;
   width: 100%;
-  background-color: #cd9557;
+  background-color: #ffb882;
   opacity: 0.7;
   z-index: 1;
 }
