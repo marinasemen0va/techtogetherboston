@@ -4,9 +4,9 @@
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-coming-soon/blob/master/LICENSE)
  */
 ::-webkit-scrollbar {
-  display: none;
-}
-html {
+   display: none;
+ }
+html{
   height: 100%;
 }
 a {
@@ -78,6 +78,7 @@ body video {
 
 .masthead .masthead-content h1 {
   font-size: 2.5rem;
+  margin-top: 0px;
 }
 
 .masthead .masthead-content p {
@@ -92,6 +93,7 @@ body video {
   height: auto;
   font-size: 1rem;
   padding: 1rem;
+  margin-top: -5px;
 }
 
 .masthead .masthead-content .input-group-newsletter button {
